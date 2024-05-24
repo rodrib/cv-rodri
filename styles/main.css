@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Readex+Pro:wght@300;400;500;600;700&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Readex+Pro:wght@300;400;500;600;700&display=swap');
 
 
 * {font-family: 'Readex Pro';}
@@ -11,7 +11,7 @@ a {
 }
 
 a:hover {
-    color: #d33682 !important;
+    color: #410ac3 !important;
     text-decoration: none;
 }
 
@@ -24,4 +24,45 @@ hr {
 
 #MainMenu {visibility: hidden;}
 footer {visibility: hidden;}
-header {visibility: hidden;}
+header {visibility: hidden;} */
+
+
+@import url('https://fonts.googleapis.com/css2?family=Readex+Pro:wght@300;400;500;600;700&display=swap');
+
+* {
+    font-family: 'Readex Pro';
+}
+
+body {
+    background-color: #f8f9fa; /* Ajusta el color de fondo si es necesario */
+}
+
+a {
+    text-decoration: none;
+    color: #007bff !important; /* Cambiado a un color con buen contraste */
+    font-weight: 500;
+}
+
+a:hover {
+    color: #0056b3 !important; /* Un color diferente para el hover */
+    text-decoration: none;
+}
+
+ul {
+    list-style-type: none;
+}
+
+hr {
+    margin-top: 0px;
+    margin-bottom: 5%;
+}
+
+#MainMenu {
+    visibility: hidden;
+}
+footer {
+    visibility: hidden;
+}
+header {
+    visibility: hidden;
+}
