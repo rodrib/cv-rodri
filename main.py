@@ -114,7 +114,7 @@ st.subheader("Hard Skills")
 st.write(
     """
 - 👩‍💻 Programming: Python (Scikit-learn, Pandas), SQL, VBA
-- 📊 Data Visulization: PowerBi, MS Excel, Plotly
+- 📊 Data Visulization: PowerBi, MS Excel, Plotly, Streamlit
 - 📚 Modeling: Logistic regression, linear regression, decition trees
 - 🗄️ Databases: Postgres, MongoDB, MySQL
 - 🎮 GameDeveloper: Unity, Godot
