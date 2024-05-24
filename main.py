@@ -28,10 +28,18 @@ SOCIAL_MEDIA = {
 }
 
 PROJECTS = {
-    "🏆 Sales Dashboard - Comparing sales across three stores": "https://youtu.be/Sb0A9i6d320",
-    "🏆 Income and Expense Tracker - Web app with NoSQL database": "https://youtu.be/3egaMfE9388",
-    "🏆 Desktop Application - Excel2CSV converter with user settings & menubar": "https://youtu.be/LzCfNanQ_9c",
-    "🏆 MyToolBelt - Custom MS Excel add-in to combine Python & Excel": "https://pythonandvba.com/mytoolbelt/",
+
+"🏆 Septem obtained 3rd Place in My First Video Game Published (03/2020 - 08/2020)" : "https://adva.vg/mpvp/",
+
+"🏆 Director of the work, Case study: Functional video games that promote physical exercise as a rehabilitation strategy for a patient with depressive disorders who suffers from central sensitivity syndrome, in the town of El Soberbio, Misiones, Argentina": "https://drive.google.com/file/d/1PusfGk2XwIKBHUqGAnyR0R3568779IQn/view?usp=drive_link",
+
+"🏆 APPLICATION OF A MULTIGENE PANEL FOR THE SEARCH FOR RISK GENETIC VARIANTS IN HEREDITARY BREAST/OVARIAN CANCER SINCE FIELD OF PUBLIC HEALTH (01/2021 - Present) We obtained funding through the National Cancer Institute for the development of this project":" https://www.argentina.gob.ar/sites/default/files/listado_adjudicacion_ip_linea_cancer-origen-nacional.pdf",
+
+"🏆 I got a sequencer through Equipar Ciencia Miseq (06/2022 - Present)": "https://www.argentina.gob.ar/noticias/el-mincyt-traves-del-programa-federal-equipar-ciencia-con-una-inversion-de-7800-millones-de",
+
+"🏆 Investiga Health Scholarship: PublicVar (10/2023 - Present) For the development of bioinformatics tools for breast-ovarian cancer": "https://www.argentina.gob.ar/salud/investiga/convocatorias-becas-de-investigacion-salud-investiga/ganadores-de-las-becas-salud",
+
+"🏆Crypthopy: Python cryptography app educates on fundamental principles, mechanisms, algorithms, and best practices": "https://crypthophy.streamlit.app/",
 }
 
 st.set_page_config(page_title=PAGE_TITLE, page_icon=PAGE_ICON)
@@ -142,17 +150,7 @@ st.write(
 """
 )
 
-# --- JOB 3
-st.write('\n')
-st.write("🚧", "**Data Analyst | Chegg**")
-st.write("04/2015 - 01/2018")
-st.write(
-    """
-- ► Devised KPIs using SQL across company website in collaboration with cross-functional teams to achieve a 120% jump in organic traﬃc
-- ► Analyzed, documented, and reported user survey results to improve customer communication processes by 18%
-- ► Collaborated with analyst team to oversee end-to-end process surrounding customers' return data
-"""
-)
+
 
 
 # --- Projects & Accomplishments ---
