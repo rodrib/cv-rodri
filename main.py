@@ -17,7 +17,7 @@ NAME = "Rodrigo Bogado"
 DESCRIPTION = """
 | Data Scientist | Python | Bioinformatician | Cybersecurity |
 """
-EMAIL = "rodribogado50@email.com"
+EMAIL = "rodribogado50@gmail.com"
 
 
 SOCIAL_MEDIA = {
