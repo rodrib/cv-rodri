@@ -40,6 +40,8 @@ PROJECTS = {
 "🏆 Investiga Health Scholarship: PublicVar (10/2023 - Present) For the development of bioinformatics tools for breast-ovarian cancer": "https://www.argentina.gob.ar/salud/investiga/convocatorias-becas-de-investigacion-salud-investiga/ganadores-de-las-becas-salud",
 
 "🏆Crypthopy: Python cryptography app educates on fundamental principles, mechanisms, algorithms, and best practices": "https://crypthophy.streamlit.app/",
+
+"🏆BinDoc RE: Reverse Engineering Dashboard (2025 - Present): Full-stack platform for firmware security auditing; automates Ghidra findings documentation and hardware vulnerability management.": "https://bindoc-navy-ocean.reflex.run/"
 }
 
 st.set_page_config(page_title=PAGE_TITLE, page_icon=PAGE_ICON)

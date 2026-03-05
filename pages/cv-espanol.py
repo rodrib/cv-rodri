@@ -42,6 +42,9 @@ PROJECTS = {
 
 "🏆 Crypthopy: una aplicación de criptografía hecha en Python sobre principios fundamentales, mecanismos, algoritmos y mejores prácticas": "https://crypthophy.streamlit.app/",
 
+"🏆 BinDoc RE: Dashboard para Ingeniería Inversa (2025 - Presente) Plataforma full-stack para la gestión de auditorías de firmware; automatiza la documentación de hallazgos de Ghidra y la respuesta ante vulnerabilidades de hardware.": "https://bindoc-navy-ocean.reflex.run/"
+
+
 
 }
 
